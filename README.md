@@ -9,7 +9,7 @@ Pewlett-Hackard allowed access to their database of numerous files that hold emp
 
 The first query resulted in a table that highlighted the baby boomer employees who were set to retire soon. The table includes each employees name, as well as their employee number, job title, and years of employement. (The year 9999-01-01 indicates the employee still works there).
 
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard_Analysis/main/Clean_Data/retirement_titles.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean_Data/retirement_titles.png)
 
 ## Summary 
 
