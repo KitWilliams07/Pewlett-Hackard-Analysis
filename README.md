@@ -11,6 +11,10 @@ The first query resulted in a table that highlighted the baby boomer employees w
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean%20Data/retirement_titles.png)
 
+From this snipit of the full table you can see that some employees have been promoted and within the database are seen as having multiple jobs. Additionally, some of the employees no longer are working here. So a new query was created to clean this table and display the most recent job title of all current baby boomer employees. 
+
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean%20Data/unique_titles.png)
+
 ## Summary 
 
 
