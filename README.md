@@ -19,6 +19,14 @@ Finally, a cummulative table was created to highlight the number of employees fo
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean%20Data/retiring_titles.png)
 
+
+
+The next step in the analysis was to determine which of these retiring employees are eligible for the Mentorship Program, which is only available to a specific age range of employees. 
+
+The snapshot of the table below shows which employees are eligible for the program as well as their current job position. This is included so Pewlett-Hackard can know what mentor employees to assign to certain mentee employees based on position title. 
+
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean%20Data/membership_eligibility.png)
+
 ## Summary 
 
 The amount of people reitirng for each job title. 
