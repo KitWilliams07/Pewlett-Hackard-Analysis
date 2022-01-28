@@ -33,7 +33,7 @@ The Silver Tsunami of baby boomers retiring puts a lot of stress on a company. A
 
 An additional query was run to help determine the number of potential Mentorship Program employees by department, in order to see if there is enough to mentor the next generation of Pewlett-Hackard employees. 
 
-![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean%20Data/next_generation_ready.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean%20Data/next_generation_ready.png) 
 
 From this it seems that there are enough Mentors to successfully run the program. However without information on the hiring numbers from the company it is hard to say for sure. Also, it is assumed that many of the new hires would be entering into entry level positions. From this table you can see there are only 29 Assistant Engineers, which makes sense because an employee set to retire most likely has a higher up position. With that being said the most number of employees retiring hold full time Senior Engineer or Staff Positions so there would be plently of Mentors to mentor the new hires. 
 
