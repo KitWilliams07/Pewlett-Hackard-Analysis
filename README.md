@@ -15,9 +15,13 @@ From this snipit of the full table you can see that some employees have been pro
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean%20Data/unique_titles.png)
 
+Finally, a cummulative table was created to highlight the number of employees for each job title that were set to retire soon. 
+
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Pewlett-Hackard-Analysis/main/Clean%20Data/retiring_titles.png)
+
 ## Summary 
 
-
+The amount of people reitirng for each job title. 
 
 ### The Number of Retiring Employees by Title
 
